@@ -14,7 +14,7 @@ All of these are in the cohort's Organization
 - [ ] TooHighTooLow : here in the repo
 - [ ] [WordGuess](https://github.com/ZCW-Winter26/WordGuess)
 - [ ] [Payroll](https://github.com/ZCW-Winter26/2nd7Bank)
-- [ ] [MicroBank](https://github.com/ZCW-Winter26/2nd7Bank)
+- [ ] [MicroBank](https://github.com/ZCW-Winter26/2nd7Bank) (wait?, what? can't clone?)
 - [ ] [DiceyLab](https://github.com/ZCW-Winter26/DiceyLab)
 - [ ] [PhoneBook](https://github.com/ZCW-Winter26/PhoneBook)
 
