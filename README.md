@@ -2,7 +2,10 @@
 
 Okay, this week it is a series of projects, each one taking a day or so. 
 
-Remember, some of these projects are easier than others. If you get to a hard bit in one them, decide, "will I continue, or keep up with the cohort?"
+Remember, some of these projects are easier than others. 
+If you get to a hard bit in one of them, switch to a different one.
+But realize that you may need to decide, "will I continue, or keep up with the cohort?"
+This is a point where you're realize we meant it when we told you about how hard you'll need to work.
 
 ## Projects for this Week
 
