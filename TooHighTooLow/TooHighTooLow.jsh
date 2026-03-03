@@ -68,13 +68,14 @@ class TooHighTooLow {
             // TODO: Exit the loop using break
         }
     }
+public class Main {
 
     public static void main(String[] args) {
         TooHighTooLow game = new TooHighTooLow();
         game.play();
     }
 }
-
+}
 // Run the game
 TooHighTooLow.main(null);
 
